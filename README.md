@@ -2,9 +2,8 @@
 
 ## Installation
 
- # OS X: Place Twilight.xml in ~/Library/Preferences/PyCharm10/colors/ and restart your IDE
-
- # If anyone wants to send me directions for linux or Windows I'm game.
+ * OS X: Place Twilight.xml in ~/Library/Preferences/PyCharm10/colors/ and restart your IDE
+ * If anyone wants to send me directions for linux or Windows I'm game.
 
 <hr />
 

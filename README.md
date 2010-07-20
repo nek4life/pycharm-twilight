@@ -1,5 +1,7 @@
 ## A Pycharm port of the Textmate theme Twilight.
 
+A big thanks goes out to Michael Sheets the original author of the Twilight theme.
+
 ## Installation
 
  * OS X: Place Twilight.xml in ~/Library/Preferences/PyCharm10/colors/ and restart your IDE

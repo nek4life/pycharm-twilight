@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Twilight" version="1" parent_scheme="Default">
+<scheme name="Twilighted" version="1" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
   <colors>
     <option name="ANNOTATIONS_MERGED_COLOR" value="ffffff" />
     <option name="CARET_COLOR" value="999999" />
-    <option name="CARET_ROW_COLOR" value="" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="0" />
+    <option name="CARET_ROW_COLOR" value="1b1b1b" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="141414" />
     <option name="FOLDING_TREE_COLOR" value="cccccc" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LEFT_GUTTER_BACKGROUND" value="e3e3e3" />
@@ -15,9 +15,9 @@
     <option name="METHOD_SEPARATORS_COLOR" value="" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="666666" />
-    <option name="SELECTED_FOLDING_TREE_COLOR" value="f7f3a9" />
+    <option name="SELECTED_FOLDING_TREE_COLOR" value="f9ee98" />
     <option name="SELECTED_INDENT_GUIDE" value="dedfe1" />
-    <option name="SELECTION_BACKGROUND" value="2e3033" />
+    <option name="SELECTION_BACKGROUND" value="323537" />
     <option name="SELECTION_FOREGROUND" value="" />
     <option name="WHITESPACES" value="404040" />
   </colors>
@@ -44,7 +44,7 @@
     </option>
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="a6a6a6" />
+        <option name="FOREGROUND" value="808080" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -64,7 +64,7 @@
     </option>
     <option name="CSS.COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -74,7 +74,7 @@
     </option>
     <option name="CSS.FUNCTION">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -84,7 +84,7 @@
     </option>
     <option name="CSS.IDENT">
       <value>
-        <option name="FOREGROUND" value="9fa8b9" />
+        <option name="FOREGROUND" value="8b98ab" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -94,7 +94,7 @@
     </option>
     <option name="CSS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cc8e53" />
+        <option name="FOREGROUND" value="cda269" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -104,7 +104,7 @@
     </option>
     <option name="CSS.NUMBER">
       <value>
-        <option name="FOREGROUND" value="cc8e53" />
+        <option name="FOREGROUND" value="ca7840" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -114,7 +114,7 @@
     </option>
     <option name="CSS.PROPERTY_NAME">
       <value>
-        <option name="FOREGROUND" value="ccbe88" />
+        <option name="FOREGROUND" value="c5af75" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -124,7 +124,7 @@
     </option>
     <option name="CSS.PROPERTY_VALUE">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -134,7 +134,7 @@
     </option>
     <option name="CSS.STRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -144,7 +144,7 @@
     </option>
     <option name="CSS.TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -154,7 +154,7 @@
     </option>
     <option name="CSS.URL">
       <value>
-        <option name="FOREGROUND" value="8c98b5" />
+        <option name="FOREGROUND" value="8693a5" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -164,7 +164,7 @@
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -235,7 +235,7 @@
     <option name="DIFF_CONFLICT">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="5e5410" />
+        <option name="BACKGROUND" value="4a410d" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -245,7 +245,7 @@
     <option name="DIFF_DELETED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="4f150a" />
+        <option name="BACKGROUND" value="420e09" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -255,7 +255,7 @@
     <option name="DIFF_INSERTED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="334c2d" />
+        <option name="BACKGROUND" value="253b22" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -265,7 +265,7 @@
     <option name="DIFF_MODIFIED">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="182c40" />
+        <option name="BACKGROUND" value="e2231" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -274,7 +274,7 @@
     </option>
     <option name="DJANGO_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -284,7 +284,7 @@
     </option>
     <option name="DJANGO_ID">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f996a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -294,7 +294,7 @@
     </option>
     <option name="DJANGO_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -304,7 +304,7 @@
     </option>
     <option name="DJANGO_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f9f9f9" />
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -314,7 +314,7 @@
     </option>
     <option name="DJANGO_STRING_LITERAL">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -324,7 +324,7 @@
     </option>
     <option name="DJANGO_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -334,7 +334,7 @@
     </option>
     <option name="DJANGO_TAG_START_END">
       <value>
-        <option name="FOREGROUND" value="a5723e" />
+        <option name="FOREGROUND" value="9b5c2e" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -374,17 +374,17 @@
     </option>
     <option name="FOLLOWED_HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c0cee2" />
+        <option name="FOREGROUND" value="afc4db" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c0cee2" />
+        <option name="EFFECT_COLOR" value="afc4db" />
         <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
     </option>
     <option name="GQL_ID">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -394,7 +394,7 @@
     </option>
     <option name="GQL_INT_LITERAL">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -404,7 +404,7 @@
     </option>
     <option name="GQL_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -414,7 +414,7 @@
     </option>
     <option name="GQL_STRING_LITERAL">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -424,7 +424,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -434,7 +434,7 @@
     </option>
     <option name="HTML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -444,7 +444,7 @@
     </option>
     <option name="HTML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -454,7 +454,7 @@
     </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -464,7 +464,7 @@
     </option>
     <option name="HTML_TAG">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -474,7 +474,7 @@
     </option>
     <option name="HTML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -484,10 +484,10 @@
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="c0cee2" />
+        <option name="FOREGROUND" value="afc4e2" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="c0cee2" />
+        <option name="EFFECT_COLOR" value="afc4db" />
         <option name="EFFECT_TYPE" value="1" />
         <option name="ERROR_STRIPE_COLOR" />
       </value>
@@ -495,7 +495,7 @@
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="2e3033" />
+        <option name="BACKGROUND" value="323537" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -504,7 +504,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -534,7 +534,7 @@
     </option>
     <option name="JS.BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -544,7 +544,7 @@
     </option>
     <option name="JS.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -574,7 +574,7 @@
     </option>
     <option name="JS.GLOBAL_FUNCTION">
       <value>
-        <option name="FOREGROUND" value="aa97ad" />
+        <option name="FOREGROUND" value="9b859d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -615,7 +615,7 @@
     <option name="JS.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="8d6c8f" />
+        <option name="BACKGROUND" value="452745" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="2" />
@@ -624,7 +624,7 @@
     </option>
     <option name="JS.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -634,7 +634,7 @@
     </option>
     <option name="JS.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -664,7 +664,7 @@
     </option>
     <option name="JS.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -674,7 +674,7 @@
     </option>
     <option name="JS.PARAMETER">
       <value>
-        <option name="FOREGROUND" value="8c98b5" />
+        <option name="FOREGROUND" value="7587a6" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -714,7 +714,7 @@
     </option>
     <option name="JS.STRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -734,7 +734,7 @@
     </option>
     <option name="LESS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="8d6c8f" />
+        <option name="FOREGROUND" value="9b859d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -744,7 +744,7 @@
     </option>
     <option name="PY.BUILTIN_NAME">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -754,7 +754,7 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -764,7 +764,7 @@
     </option>
     <option name="PY.DECORATOR">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -774,7 +774,7 @@
     </option>
     <option name="PY.DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -784,7 +784,7 @@
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -795,7 +795,7 @@
     <option name="PY.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="f9f9f9" />
-        <option name="BACKGROUND" value="8d6cb7" />
+        <option name="BACKGROUND" value="452745" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -804,7 +804,7 @@
     </option>
     <option name="PY.KEYWORD">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -814,7 +814,7 @@
     </option>
     <option name="PY.LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -824,7 +824,7 @@
     </option>
     <option name="PY.NUMBER">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -834,7 +834,7 @@
     </option>
     <option name="PY.OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -844,7 +844,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="c0cee2" />
+        <option name="FOREGROUND" value="afc4db" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -854,7 +854,7 @@
     </option>
     <option name="PY.PREDEFINED_USAGE">
       <value>
-        <option name="FOREGROUND" value="8d98b5" />
+        <option name="FOREGROUND" value="afc4db" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -864,7 +864,7 @@
     </option>
     <option name="PY.STRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -874,7 +874,7 @@
     </option>
     <option name="PY.VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="f9f9f9" />
+        <option name="FOREGROUND" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -884,7 +884,7 @@
     </option>
     <option name="REGEXP.BRACES">
       <value>
-        <option name="FOREGROUND" value="e7ce76" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -894,7 +894,7 @@
     </option>
     <option name="REGEXP.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="e3f6b3" />
+        <option name="FOREGROUND" value="daefa3" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -904,7 +904,7 @@
     </option>
     <option name="REGEXP.ESC_CHARACTER">
       <value>
-        <option name="FOREGROUND" value="e3f6b3" />
+        <option name="FOREGROUND" value="daefa3" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -914,7 +914,7 @@
     </option>
     <option name="REGEXP.META">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_COLOR" />
@@ -924,7 +924,7 @@
     </option>
     <option name="REGEXP.PARENTHS">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -934,7 +934,7 @@
     </option>
     <option name="SASS_ATTRIBUTE">
       <value>
-        <option name="FOREGROUND" value="ccbe88" />
+        <option name="FOREGROUND" value="c5af75" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -944,7 +944,7 @@
     </option>
     <option name="SASS_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5a5f60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -954,7 +954,7 @@
     </option>
     <option name="SASS_CONSTANT">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -974,7 +974,7 @@
     </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="c0cee2" />
+        <option name="FOREGROUND" value="afc4db" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -984,7 +984,7 @@
     </option>
     <option name="SASS_NUMBER">
       <value>
-        <option name="FOREGROUND" value="cc8e53" />
+        <option name="FOREGROUND" value="ca7840" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1004,7 +1004,7 @@
     </option>
     <option name="SASS_STRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1045,7 +1045,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="f9f9f9" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="141414" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="1" />
@@ -1055,7 +1055,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" />
-        <option name="BACKGROUND" value="2e3033" />
+        <option name="BACKGROUND" value="323537" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -1064,7 +1064,7 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="8d6c8f" />
+        <option name="FOREGROUND" value="9b859d" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="3" />
         <option name="EFFECT_COLOR" />
@@ -1085,7 +1085,7 @@
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="2e3033" />
+        <option name="BACKGROUND" value="323537" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
         <option name="EFFECT_TYPE" value="0" />
@@ -1114,7 +1114,7 @@
     </option>
     <option name="XML_ATTRIBUTE_NAME">
       <value>
-        <option name="FOREGROUND" value="d1b97d" />
+        <option name="FOREGROUND" value="cda869" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1124,7 +1124,7 @@
     </option>
     <option name="XML_ATTRIBUTE_VALUE">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1134,7 +1134,7 @@
     </option>
     <option name="XML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -1144,7 +1144,7 @@
     </option>
     <option name="XML_ENTITY_REFERENCE">
       <value>
-        <option name="FOREGROUND" value="cf8160" />
+        <option name="FOREGROUND" value="cf6a4c" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1154,7 +1154,7 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="f7f3a9" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -1164,7 +1164,7 @@
     </option>
     <option name="XML_TAG">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1184,7 +1184,7 @@
     </option>
     <option name="XML_TAG_NAME">
       <value>
-        <option name="FOREGROUND" value="a68551" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1194,7 +1194,7 @@
     </option>
     <option name="YAML_COMMENT">
       <value>
-        <option name="FOREGROUND" value="726d73" />
+        <option name="FOREGROUND" value="5f5a60" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" />
@@ -1204,7 +1204,7 @@
     </option>
     <option name="YAML_SCALAR_DSTRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1214,7 +1214,7 @@
     </option>
     <option name="YAML_SCALAR_KEY">
       <value>
-        <option name="FOREGROUND" value="a6853d" />
+        <option name="FOREGROUND" value="9b703f" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1224,7 +1224,7 @@
     </option>
     <option name="YAML_SCALAR_LIST">
       <value>
-        <option name="FOREGROUND" value="e7ce76" />
+        <option name="FOREGROUND" value="f9ee98" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />
@@ -1234,7 +1234,7 @@
     </option>
     <option name="YAML_SCALAR_STRING">
       <value>
-        <option name="FOREGROUND" value="a0ae7d" />
+        <option name="FOREGROUND" value="8f9d6a" />
         <option name="BACKGROUND" />
         <option name="FONT_TYPE" value="0" />
         <option name="EFFECT_COLOR" />

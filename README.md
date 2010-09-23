@@ -5,6 +5,7 @@ A big thanks goes out to Michael Sheets the original author of the Twilight them
 ## Installation
 
  * OS X: Place Twilight.xml in ~/Library/Preferences/PyCharm10/colors/ and restart your IDE
+ * Linux: Place Twilight.xml in  ~/.PyCharm10/config/color and restart your IDE (thanks @thierrystiegler)
  * If anyone wants to send me directions for linux or Windows I'm game.
 
 <hr />
